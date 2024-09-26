@@ -1,9 +1,13 @@
-Overview
-This collection of PowerPoint presentations covers the full syllabus for the Machine Learning course for MSc students. The course is divided into five units, each focusing on different aspects of machine learning, from foundational concepts to advanced models and techniques. The presentations are designed to guide you through both the theory and practical applications of machine learning.
+**Overview:**
 
-Unit Breakdown
-Unit 1: Introduction to Machine Learning
-This unit introduces the core concepts and structure of machine learning. Topics include:
+This collection of PowerPoint presentations covers the full syllabus for the Machine Learning course for MSc students (SIES College of Commerce and Economics). The course is divided into five units, each focusing on different aspects of machine learning, from foundational concepts to advanced models and techniques. 
+
+**Unit Breakdown:**
+
+**Unit 1: Introduction to Machine Learning**
+This unit introduces the core concepts and structure of machine learning. 
+
+**Topics include:**
 
 Definitions and examples of machine learning problems
 Learning vs. designing, training vs. testing
@@ -11,6 +15,7 @@ Characteristics of machine learning tasks
 Predictive and descriptive tasks
 Machine learning models (Geometric, Logical, Probabilistic)
 Feature engineering: types, construction, transformation, and selection
+
 Unit 2: Classification and Regression
 This unit delves into supervised learning techniques, covering:
 
